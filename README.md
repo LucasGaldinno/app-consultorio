@@ -1,5 +1,5 @@
 <h1>Clínica Odontológica Dentes Saudáveis 🦷</h1>
-Esse projeto foi desenvolvido com react.js, é um consutório odontológico nele você consegue visualizar os convênios, contatos, fazer o agendamento e ver a missão do consutório.
+Esse projeto foi desenvolvido com react.js, é um consultório odontológico nele você consegue visualizar os convênios, contatos, fazer o agendamento e ver a missão do consultório.
 
 <h2>O que é react  :point_down:</h2> 
 O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
